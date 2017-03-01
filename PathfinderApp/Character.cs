@@ -12,5 +12,11 @@ namespace PathfinderApp
         public ClassType classType;
         public int currentHitPoints;
         public int maxHitPoints;
+        public BaseStat intelligence;
+        public BaseStat charisma;
+        public BaseStat strength;
+        public BaseStat dexterity;
+        public BaseStat wisdom;
+        public BaseStat constitution;
     }
 }
